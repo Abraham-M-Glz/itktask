@@ -1,5 +1,5 @@
-# main
+# task 2
 
-## main
+## Screenshot
 
 ![screen](Screenshots/02_display_image.png)
