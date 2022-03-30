@@ -2,4 +2,4 @@
 
 ## main
 
-![screen](Screenshots/Flutter Learning Screens .png)
+![screen](Screenshots/FlutterLearningScreens.png)
